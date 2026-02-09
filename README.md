@@ -112,3 +112,13 @@ Este site está disponível publicamente através do **GitHub Pages**. Você pod
 ## Contribuições
 
 Contribuições são bem-vindas. Caso tenha sugestões de melhorias, correções ou novas funcionalidades, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+###
+
+<div align="center">
+  <p>
+    <em>
+      Projeto desenvolvido com fins educacionais, no contexto da formação oferecida pela <strong>Generation Brasil</strong>.
+    </em>
+  </p>
+</div>
